@@ -24,7 +24,7 @@ Focado em aprendizado contínuo e em busca de oportunidades como desenvolvedor j
 *   Desenvolvimento Full-Stack (Web & Mobile)
 *   Banco de Dados (SQL & NoSQL)
 *   Computação em Nuvem (AWS/Azure)
-*   Segurança da Informação
+*   Segurança da Informação 
 
 ### Contato!
 
