@@ -30,7 +30,7 @@ Focado em aprendizado contínuo e em busca de oportunidades como desenvolvedor j
 
 <p align="left">
   <a href="https://linkedin.com/in/jacksoncosta-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:antoniojackson665@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:jacksoncosta8530@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 <!-- Adicionar um GitHub Stats Card profissional -->
