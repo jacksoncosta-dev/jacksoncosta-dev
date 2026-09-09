@@ -1,6 +1,6 @@
 # Olá, eu sou o Antônio Jackson!
 
-<img src="https://avatars.githubusercontent.com/u/10101010?v=4" align="right" width="150px" style="border-radius: 50%;" />
+<img src="https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" align="right" width="150px" style="border-radius: 50%;" />
 
 ### Estudante de Análise e Desenvolvimento de Sistemas (ADS) | Uniasselvi
 
