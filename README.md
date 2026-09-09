@@ -4,7 +4,7 @@
 
 ### Estudante de Análise e Desenvolvimento de Sistemas (ADS) | Uniasselvi
 
-Focado em aprendizado contínuo e em busca de oportunidades como desenvolvedor júnior ou estagiário de TI. Atualmente trabalhando como Atendente no Posto Ceará, onde desenvolvo habilidades de comunicação e atendimento ao cliente.
+Focado em aprendizado contínuo e em busca de oportunidades como desenvolvedor júnior ou estagiário de TI.
 
 ---
 
