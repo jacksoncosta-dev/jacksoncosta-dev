@@ -41,24 +41,21 @@ h1 {
     color: #8b949e;
 }
 
-section {
+section, header, footer {
     margin: 25px 0;
     padding: 24px;
-    background: rgba(22, 27, 34, 0.75); 
-    backdrop-filter: blur(12px); 
+    background: rgba(22, 27, 34, 0.75);
+    backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
     border-radius: 12px;
-    border: 1px solid rgba(255, 255, 255, 0.1); 
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3); 
-    font-family: 'Inter', system-ui, -apple-system, sans-serif; 
-}
-
-section {
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
     position: relative;
     overflow: hidden;
 }
 
-section::before {
+section::before, header::before, footer::before {
     content: '';
     position: absolute;
     top: 0;
@@ -75,10 +72,9 @@ section::before {
     pointer-events: none;
 }
 
-section:hover::before {
+section:hover::before, header:hover::before, footer:hover::before {
     opacity: 1;
 }
-
 
 h2 {
     color: #3fb950;
