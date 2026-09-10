@@ -1,4 +1,4 @@
-const cards = document.querySelectorAll("section");
+const cards = document.querySelectorAll("section, header, footer");
 
 cards.forEach(card => {
     card.addEventListener("mousemove", e => {
